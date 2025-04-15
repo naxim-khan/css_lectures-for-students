@@ -67,4 +67,10 @@ li {
   border: 2px solid #ed5656;
 }
 
-/* I will show the same during pseudo elements  */
+
+
+marquee:hover{
+  margin-bottom: 50px;
+  cursor: pointer;
+  border-bottom: 10px solid red;
+}
