@@ -89,6 +89,18 @@ p {
   margin-bottom: 24px;
 }
 
+a {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  margin: 0 auto;
+  background: linear-gradient(to right, #182848, #4b6cb7);
+  padding: 5px 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+
 /** ------------------------------------- -->
 /**  INTERVIEW QUESTIONS  
 /** ---------------------------------------- -->
